@@ -73,7 +73,7 @@ if choice == "Search":
     conn = sqlite3.connect('bizcard.db')
     df = pd.read_sql_query("SELECT * FROM bizcard", conn)
 
-    st.title("Serach busiess card data from database")
+    st.title("Search buisness card data from database")
     col1, col2 = st.columns(2)
     with col1:
         menu = ["","Name","Designation","Domain","District","State"]
