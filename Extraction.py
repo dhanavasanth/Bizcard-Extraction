@@ -37,6 +37,8 @@ def website(img):
   for i in img:
     if re.match(r'^WWW(?=.*\.com)', i):
       website = i
+    elif re.match(r'^\w+\.com$', i):
+      website = ('WWW.'+i)
   if len(website) ==0:
     website = "Not Available"
   else:
