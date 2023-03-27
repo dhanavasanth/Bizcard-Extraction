@@ -19,7 +19,14 @@ This all, but with Regular Expressions...you will be able to segregate each info
   import regex as re
 ```
   
-user info is extracted from the Biz_Card and stored in a database.
+Once you have the reader object, you can use it to extract the information from the Biz_Card.
+WHhen the Biz_Card is extracted, you will get the following information:
 
-<img align="top" height = 200 alt="Coding" width="900" src="">
+<img align="center" alt="Coding" src="media/data.png">
+
+## DATAFRAME
+
+<img align="center" alt="Coding" src="media/dataframe.png">
+
+
 
