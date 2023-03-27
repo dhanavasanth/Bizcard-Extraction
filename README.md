@@ -28,5 +28,19 @@ WHhen the Biz_Card is extracted, you will get the following information:
 
 <img align="center" alt="Coding" src="media/dataframe.png">
 
+## Creating a user_interface website using Streamlit
 
+This helps user to upload their extracted buissness card information and upload it to SQLite database and it will provide a searchable user interface.
+
+## Home
+
+<img align="center" alt="Coding" src="media/home.png">
+
+## Search Interface
+
+<img align="center" alt="Coding" src="media/search.png">
+
+## Support
+
+ email : danavasanth@gmail.com 
 
