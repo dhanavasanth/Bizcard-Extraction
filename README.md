@@ -1,1 +1,1 @@
-<img align="top" height = 200 alt="Coding" width="900" src="media/">
+<img align="top" height = 200 alt="Coding" width="900" src="media/banner.gif">
