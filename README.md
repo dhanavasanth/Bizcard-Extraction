@@ -1,7 +1,5 @@
 <img align="top" height = 400 alt="Coding" width="950" src="https://i.gifer.com/7XOw.gif">
 
-<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/7XOw" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-
 <h1 align="center">Biz_Card Extraction using Easy_OCR"</h1>
 
 Extracting informations from the Biz_Card using Easy_OCR is a very simple task.
