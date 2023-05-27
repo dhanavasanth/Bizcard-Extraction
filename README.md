@@ -1,4 +1,4 @@
-<img align="top" height = 400 alt="Coding" width="950" src="media/ocr_bg.gif">
+<img align="top" height = 400 alt="Coding" width="950" src="[media/ocr_bg.gif](https://i.gifer.com/7XOw.gif)">
 
 <h1 align="center">Biz_Card Extraction using Easy_OCR"</h1>
 
@@ -22,11 +22,11 @@ This all, but with Regular Expressions...you will be able to segregate each info
 Once you have the reader object, you can use it to extract the information from the Biz_Card.
 WHhen the Biz_Card is extracted, you will get the following information:
 
-<img align="center" alt="Coding" src="media/data.png">
+![data](https://github.com/dhanavasanth/Bizcard-Extraction/assets/117557948/2b6dab12-d08d-4a80-98bb-f85e18840588)">
 
 ## DATAFRAME
 
-<img align="center" alt="Coding" src="media/dataframe.png">
+![dataframe](https://github.com/dhanavasanth/Bizcard-Extraction/assets/117557948/ce2e8b1c-ad0e-4e4f-8d4c-9d6a62dba77f)
 
 ## Creating a user_interface website using Streamlit
 
@@ -34,11 +34,11 @@ This helps user to upload their extracted buissness card information and upload 
 
 ## Home
 
-<img align="center" alt="Coding" src="media/home.png">
+![home](https://github.com/dhanavasanth/Bizcard-Extraction/assets/117557948/0e336a74-7a54-4a4d-930b-e43f7eb22eeb)
 
 ## Search Interface
 
-<img align="center" alt="Coding" src="media/search.png">
+![search](https://github.com/dhanavasanth/Bizcard-Extraction/assets/117557948/2dfae0de-2372-4943-a523-4a7eca9e5591)
 
 ## Support
 
