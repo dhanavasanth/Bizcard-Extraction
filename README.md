@@ -1,4 +1,4 @@
-<img align="top" height = 400 alt="Coding" width="950" src="https://i.gifer.com/7XOw.gif">
+![matrix-addition](https://github.com/dhanavasanth/Bizcard-Extraction/assets/117557948/85e6a6ee-d508-4d35-8124-85b6613e76a7)
 
 <h1 align="center">Biz_Card Extraction using Easy_OCR"</h1>
 
